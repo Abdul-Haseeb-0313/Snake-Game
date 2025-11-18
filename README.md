@@ -3,11 +3,6 @@
 - A simple Snake game built with Go and Ebitengine
 - Move the snake, eat food, grow longer and try not to hit yourself 😎
 
-## Requirements
-
-- Linux (tested on Ubuntu 22.04)
-- Requires a desktop environment (X11)
-
 ## Installation              
 
 - Download the binary from the Releases page
